@@ -1,0 +1,22 @@
+{
+  "name": "aster_cott",
+  "version": "1.0.0",
+  "description": "Allegra Portfolio / E Com site",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WareDave/Aster_Cott.git"
+  },
+  "keywords": [
+    "aster"
+  ],
+  "author": "WareDave / DaveTheClark LLC. COPYRIGHT 2022",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WareDave/Aster_Cott/issues"
+  },
+  "homepage": "https://github.com/WareDave/Aster_Cott#readme"
+}
