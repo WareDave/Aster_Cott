@@ -50,7 +50,7 @@ class Head extends Component {
                                     </div>
                                     <figcaption>
                                         Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                                        <span class="credit">Photo: Tim Marshall</span>
+                                        <span class="credit">Art By: Some Chick</span>
                                     </figcaption>
                                 </figure>
                             </li>
@@ -115,7 +115,7 @@ class Head extends Component {
                                     </div>
                                     <figcaption>
                                         Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                                        <span class="credit">Photo: Annie Spratt</span>                            
+                                        <span class="credit">Some Lady</span>                            
                                     </figcaption>
                                 </figure>
                             </li>
