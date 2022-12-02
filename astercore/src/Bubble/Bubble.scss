@@ -1,0 +1,65 @@
+.C_cont {
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+    margin: 150px;
+
+}
+
+.inner_table {
+    background-image: url('https://i.imgur.com/EmgKo2c.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: -20px 7px 40px 10px rgba(0,0,0,0.86);
+    display: flex;
+    width: 55%;
+    border: 3px solid rgb(48, 38, 25);
+    border-radius: 25px;
+
+}
+
+.C_img {
+    display: flex;
+    justify-content: left;
+    margin: 30px;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 3px solid darkolivegreen;
+    box-shadow: -20px 7px 40px -4px rgba(51, 70, 56, 0.72);
+
+}
+
+.C_text {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.C_heading {
+    color: aquamarine;
+
+}
+
+.C_info {
+    font-family: 'Cinzel Decorative';
+    color: rgb(233, 176, 219);
+    display: flex;
+    justify-content: center;
+    
+}
+
+.title_h1 {
+    color: rgb(114, 185, 185);
+    display: flex;
+    justify-content: center;
+}
+
+.title_tag {
+    font-family: 'Cinzel Decorative';
+    color: rgb(114, 141, 163);
+    display: flex;
+    justify-content: center;
+
+}

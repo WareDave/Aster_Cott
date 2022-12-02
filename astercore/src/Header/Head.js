@@ -50,7 +50,7 @@ class Head extends Component {
                                     </div>
                                     <figcaption>
                                         Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                                        <span class="credit">Art By: Some Chick</span>
+                                        <span class="credit">Art By: Allegra Tankersley</span>
                                     </figcaption>
                                 </figure>
                             </li>
@@ -59,11 +59,11 @@ class Head extends Component {
                             <li class="carousel__slide">
                                 <figure>
                                     <div>
-                                        <img src="https://i.imgur.com/RUyE8X3.jpg" alt=""></img>
+                                        <img src="https://i.imgur.com/ORufQkU.jpg" alt=""></img>
                                     </div>
                                     <figcaption>
                                         Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                                        <span class="credit">Photo: Christian Joudrey</span>                            
+                                        <span class="credit">Art By: Allegra Tankersley</span>                            
                                     </figcaption>
                                 </figure>
                             </li>
@@ -72,11 +72,11 @@ class Head extends Component {
                             <li class="carousel__slide">
                                 <figure>
                                     <div>
-                                        <img src="https://i.imgur.com/GbxLDth.jpg" alt=""></img>
+                                        <img src="https://i.imgur.com/nHWBLIM.jpg" alt=""></img>
                                     </div>
                                     <figcaption>
                                         Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                                        <span class="credit">Photo: Steve Carter</span>                            
+                                        <span class="credit">Art By: Allegra Tankersley</span>                            
                                     </figcaption>
                                 </figure>
                             </li>
@@ -85,11 +85,11 @@ class Head extends Component {
                             <li class="carousel__slide">
                                 <figure>
                                     <div>
-                                        <img src="https://i.imgur.com/RHK1lzP.jpg" alt=""></img>
+                                        <img src="https://i.imgur.com/GBE6ti1.jpg" alt=""></img>
                                     </div>
                                     <figcaption>
                                         Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                                        <span class="credit">Photo: Aleksandra Boguslawska</span>                            
+                                        <span class="credit">Art By: Allegra Tankersley</span>                            
                                     </figcaption>
                                 </figure>
                             </li>
@@ -102,7 +102,7 @@ class Head extends Component {
                                     </div>
                                     <figcaption>
                                         Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                                        <span class="credit">Photo: Rosan Harmens</span>                            
+                                        <span class="credit">Art By: Allegra Tankersley</span>                            
                                     </figcaption>
                                 </figure>
 
@@ -115,7 +115,7 @@ class Head extends Component {
                                     </div>
                                     <figcaption>
                                         Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                                        <span class="credit">Some Lady</span>                            
+                                        <span class="credit">Art By: Allegra Tankersley</span>                            
                                     </figcaption>
                                 </figure>
                             </li>
@@ -128,13 +128,13 @@ class Head extends Component {
                                 <label for="slide-1"><img src="https://i.imgur.com/BdDt3ozs.jpg" alt=""></img></label>
                             </li>
                             <li>
-                                <label for="slide-2"><img src="https://i.imgur.com/I9L7K6Ts.jpg" alt=""></img></label>
+                                <label for="slide-2"><img src="https://i.imgur.com/ORufQkU.jpg" alt=""></img></label>
                             </li>
                             <li>
-                                <label for="slide-3"><img src="https://i.imgur.com/GbxLDths.jpg" alt=""></img></label>
+                                <label for="slide-3"><img src="https://i.imgur.com/nHWBLIM.jpg" alt=""></img></label>
                             </li>
                             <li>
-                                <label for="slide-4"><img src="https://i.imgur.com/RHK1lzPs.jpg" alt=""></img></label>
+                                <label for="slide-4"><img src="https://i.imgur.com/GBE6ti1.jpg" alt=""></img></label>
                             </li>
                             <li>
                                 <label for="slide-5"><img src="https://i.imgur.com/9xBSkcMs.jpg" alt=""></img></label>

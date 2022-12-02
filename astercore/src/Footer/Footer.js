@@ -32,7 +32,7 @@ class Footer extends Component {
         <footer id="page-foot">
           <div class="footer-copyright">
             <div class="footcontainer">
-            <h4> Forged In Fire By The <a class='ftitle' href="https://github.com/WareDave">WareDave  <i class="fa fa-github"></i></a><br></br>
+            <h4> Forged In Fire By <a class='ftitle' href="https://github.com/WareDave">DaveTheClark<i class="fa fa-github"></i> Copyright 2022</a><br></br>
             </h4> 
             
            
